@@ -6,4 +6,4 @@ function testStrict(val) {
     return "Not Equal";
   }
   
-  testStrict(10);
+  testStrict(10 );
